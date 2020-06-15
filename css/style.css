@@ -1,0 +1,53 @@
+.container{
+
+width: 1000px;
+
+margin-left: auto;
+
+margin-right: auto;
+}
+.first{
+
+font-size: 35px;
+
+text-align: center;
+
+font-weight: 500;
+
+padding-bottom: 20px;
+
+margin: 0;
+}
+.color1{
+	color: #3C80F3;
+}
+.color2{
+	color: #EF7268;
+
+}
+.color3{
+	color: #36A853
+}
+.color4{
+	color: orange;
+
+}
+.second{
+	font-size: 30px;
+	text-align: left;
+	font-weight: bolder;
+	padding: 20px 0px;
+	margin: 0;
+}
+.third{
+	text-align: center;
+    font-size: 45px;
+    background-color: #0CA26D;
+    font-weight: bold;
+    color: white;
+    padding: 60px;
+    border-radius: 5px;
+}
+p{
+	margin: 0;
+}
